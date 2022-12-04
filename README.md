@@ -23,6 +23,12 @@ THE Post Purchase Experience Engine - Customer experience doesn't stop at checko
 - LinkedIn: https://www.linkedin.com/in/adamgrohs/
 - Twitter: https://twitter.com/agrohs
 
+### Products 🌱
+- [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com/
+- [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/ for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
+- [commercetools](https://commercetools.com) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/835629/commercetools-by-agnostack/
+- Magento 1 Extension for [Zendesk](https://zendesk.com): https://github.com/agnostack/magento_extension
+
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
