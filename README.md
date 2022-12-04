@@ -25,7 +25,7 @@ THE Post Purchase Experience Engine - Customer experience doesn't stop at checko
 
 ### Products 🌱
 - [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com/
-- [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/ for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
+- [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
 - [commercetools](https://commercetools.com) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/835629/commercetools-by-agnostack/
 - Magento 1 Extension for [Zendesk](https://zendesk.com): https://github.com/agnostack/magento_extension
 
