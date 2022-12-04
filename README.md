@@ -2,7 +2,7 @@
 - https://agnostack.com/founding-team/adam-grohs
 
 
-**_Co-Founder/Chairman_ @ [Particular.](https://uniquelyparticular.com)**
+**_Co-Founder/Chairman_ @ [Particular.](https://uniquelyparticular.com) & _ParticularlyU_**
 - https://www.uniquelyparticular.com/adam-grohs/
 
 
