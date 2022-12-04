@@ -1,13 +1,10 @@
 ### Founder/CEO _(Head of Product)_ @ [agnoStack](https://agnostack.com) 👋🏝
 THE Post Purchase Experience Engine - Customer experience doesn't stop at checkout!
 - https://agnostack.com/founding-team/adam-grohs
-
-![agnoStack](http://agnostack.com/images/agnoStack-marketplace-footer.png "agnoStack")
-
+![agnoStack](https://user-images.githubusercontent.com/160647/205491010-d3e80ef7-65f3-4a28-93a4-93322193136d.svg "agnoStack")
 
 **_Co-Founder/Chairman_ @ [Particular.](https://uniquelyparticular.com) & _ParticularlyU_**
 - https://www.uniquelyparticular.com/adam-grohs/
-
 
 **_Founder/Volunteer_ @ [KeepSmallStrong](https://keepsmallstrong.org)**
 - Forbes: https://www.forbes.com/sites/amyblaschka/2020/03/30/heres-how-to-save-small-businesses-and-keepsmallstrong/
