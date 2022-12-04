@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Founder/CEO/Head of Product @ agnoStack
 
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
