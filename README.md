@@ -14,15 +14,19 @@ THE Post Purchase Experience Engine - Customer experience doesn't stop at checko
 - ABC News: https://www.mysuncoast.com/2020/04/16/keep-small-strong-initiative-helps-local-companies-evolve-during-this-pandemic/
 - VegNews: https://vegnews.com/2020/4/one-loyal-customer-saves-miami-vegan-bakery-from-shuttering-with-keep-small-strong-campaign/
 - Miami New Times: https://www.miaminewtimes.com/restaurants/lartisane-creative-bakerys-e-commerce-business-helps-during-coronavirus-crisis-11635982/
+- "Tech for good during Covid-19": https://www.youtube.com/watch?v=utqJdbZ2Z4U
 
 **_Co-Founder/Educator/Lifelong Learner_ @ CMTO University**
 - https://www.cio.com/article/247157/cmto-university-teaches-marketers-about-tech-and-vice-versa.html
 
 
 ### Find Me 📫
-- Crunchbase: https://www.crunchbase.com/person/adam-grohs
+- X (formerly Twitter): https://twitter.com/agrohs
 - LinkedIn: https://www.linkedin.com/in/adamgrohs/
-- Twitter: https://twitter.com/agrohs
+- agnoStack: https://www.crunchbase.com/person/adam-grohs
+- Crunchbase: https://www.crunchbase.com/person/adam-grohs
+- F6s: https://www.f6s.com/member/adamgrohs
+- TheOrg: https://theorg.com/org/agnostack/org-chart/adam-grohs
 
 ### Products 🚀
 - [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com/
