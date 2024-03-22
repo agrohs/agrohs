@@ -28,11 +28,19 @@
 - TheOrg: https://theorg.com/org/agnostack/org-chart/adam-grohs
 
 ### Products 🚀
-- [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com/
+- [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com
 - [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
+- [Magento 2/Adobe Commerce](https://business.adobe.com/products/magento/magento-commerce.html) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/952955/magento-2-by-agnostack/
 - [commercetools](https://commercetools.com) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/835629/commercetools-by-agnostack/
 - WooCommerce, Adobe Commerce/Magento 2, ElasticPath, Stripe for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/214713/agnostack-commerce/
 - Magento 1 Extension for [Zendesk](https://zendesk.com): https://github.com/agnostack/magento_extension
+
+### Websites 🚀
+- [agnoStack](https://agnostack.com): https://agnostack.com
+- [Zendesk Commerce](https://stackablesupport.com/zendesk-commerce): https://zendeskcommerce.com
+- [Zendesk Apps](https://stackableapps.com/zendesk): https://zendeskapps.com
+- [Shopify Zendesk](https://shopifyzendesk.com): https://shopifyzendesk.com
+- [Zendesk vs. Gorgias](https://zendeskvsgorgias.com): https://zendeskvsgorgias.com
 
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
