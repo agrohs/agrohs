@@ -1,5 +1,6 @@
 ### Founder/CEO _(Head of Product)_ @ [agnoStack](https://agnostack.com) 👋 [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
--  https://www.crunchbase.com/person/adam-grohs
+- https://agnostack.com/founding-team/adam-grohs
+- https://www.crunchbase.com/person/adam-grohs
 
 [THE Post Purchase Experience Engine](https://agnostack.com) - Customer experience doesn't stop at checkout!
 [![agnoStack](https://user-images.githubusercontent.com/160647/205491010-d3e80ef7-65f3-4a28-93a4-93322193136d.svg "agnoStack")](https://agnostack.com)
