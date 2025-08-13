@@ -2,8 +2,10 @@
 - https://agnostack.com/founding-team/adam-grohs
 - https://www.crunchbase.com/person/adam-grohs
 
-[THE Post Purchase Experience Engine](https://agnostack.com) - Customer experience doesn't stop at checkout!
 [![agnoStack](https://user-images.githubusercontent.com/160647/205491010-d3e80ef7-65f3-4a28-93a4-93322193136d.svg "agnoStack")](https://agnostack.com)
+[THE Post Purchase Experience Engine](https://agnostack.com) - Customer experience doesn't stop at checkout!
+
+----
 
 **_Co-Founder/Chairman_ @ [Particular.](https://uniquelyparticular.com) & _ParticularlyU_**
 - https://www.uniquelyparticular.com/adam-grohs/
