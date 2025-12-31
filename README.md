@@ -1,4 +1,4 @@
-### Founder/CEO _(Head of Product)_ @ [agnoStack](https://agnostack.com) 👋 [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
+### Co-Founder/CEO _(Head of Product)_ @ [agnoStack](https://agnostack.com) 👋 [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
 - https://agnostack.com/founding-team/adam-grohs
 - https://www.crunchbase.com/person/adam-grohs
 - https://uniquelyparticular.com/adam-grohs
