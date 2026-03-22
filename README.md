@@ -42,9 +42,9 @@
 ### Websites 🚀
 - [Stackable Labs](https://stackablelabs.com): https://stackablelabs.com
 - [agnoStack](https://agnostack.com): https://agnostack.com
-- [Zendesk Commerce](https://stackablesupport.com/zendesk-commerce): https://zendeskcommerce.com
-- [Zendesk Apps](https://stackableapps.com/zendesk): https://zendeskapps.com
-- [Shopify Zendesk](https://shopifyzendesk.com): https://shopifyzendesk.com
+- [Zendesk Commerce](https://stackablesupport.com/zendesk-commerce): [https://zendeskcommerce.com](https://stackablesupport.com/zendesk-commerce)
+- [Zendesk Apps](https://stackableapps.com/zendesk): [https://zendeskapps.com](https://stackableapps.com/zendesk
+- [Shopify Zendesk](https://premium.stackableapps.com): [https://shopifyzendesk.com](https://premium.stackableapps.com)
 - [Zendesk vs. Gorgias](https://zendeskvsgorgias.com): https://zendeskvsgorgias.com
 
 <!--
