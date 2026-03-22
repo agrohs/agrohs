@@ -40,6 +40,7 @@
 - Magento 1 Extension for [Zendesk](https://zendesk.com): https://github.com/agnostack/magento_extension
 
 ### Websites 🚀
+- [Stackable Labs](https://stackablelabs.com): https://stackablelabs.com
 - [agnoStack](https://agnostack.com): https://agnostack.com
 - [Zendesk Commerce](https://stackablesupport.com/zendesk-commerce): https://zendeskcommerce.com
 - [Zendesk Apps](https://stackableapps.com/zendesk): https://zendeskapps.com
