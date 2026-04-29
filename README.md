@@ -31,7 +31,7 @@
 - F6s: https://www.f6s.com/member/adamgrohs
 - TheOrg: https://theorg.com/org/agnostack/org-chart/adam-grohs
 
-### Products 🚀
+### Products 🌱
 - [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com
 - [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
 - [Magento 2/Adobe Commerce](https://business.adobe.com/products/magento/magento-commerce.html) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/952955/magento-2-by-agnostack/
@@ -46,6 +46,9 @@
 - [Zendesk Apps](https://stackableapps.com/zendesk): [https://zendeskapps.com](https://stackableapps.com/zendesk)
 - [Shopify Zendesk](https://premium.stackableapps.com): [https://shopifyzendesk.com](https://premium.stackableapps.com)
 - [Zendesk vs. Gorgias](https://zendeskvsgorgias.com): https://zendeskvsgorgias.com
+
+### Contributor 🔭
+- [ShadCN Tour](https://github.com/NiazMorshed2007/shadcn-tour): https://github.com/NiazMorshed2007/shadcn-tour
 
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
