@@ -1,11 +1,11 @@
-### Co-Founder/CEO @ [Stackable Labs](https://stackablelabs.com) 👀
+### Co-Founder/CEO @ [Stackable Labs](https://github.com/stackable-labs) 👀
 
 Stackable provides the first AI-powered open developer platform for building rich, branded, interactive experiences on top of Zendesk Messenger.
 **_Customer experience has entered the chat._**
 
 [![Stackable Labs](https://stackablelabs.com/press/2026-05-14/stackable-launch/opengraph-image "Stackable Labs")](https://stackablelabs.com/press/2026-05-14/stackable-launch)
 
-### Co-Founder/CEO _(Head of Product)_ @ [agnoStack](https://agnostack.com) 👋 [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
+### Co-Founder/CEO _(Head of Product)_ @ [agnoStack](https://github.com/agnostack) 👋 [🏝](http://maps.google.com/maps/place?cid=13396270753657624207)
 - https://agnostack.com/founding-team/adam-grohs
 - https://www.crunchbase.com/person/adam-grohs
 - https://uniquelyparticular.com/adam-grohs
