@@ -38,6 +38,10 @@ Stackable provides the first AI-powered open developer platform for building ric
 - F6s: https://www.f6s.com/member/adamgrohs
 - TheOrg: https://theorg.com/org/agnostack/org-chart/adam-grohs
 
+### Writing ✏️
+- [agnoStack Blog](https://go.agnostack.com/blog/author/adam-grohs): https://go.agnostack.com/blog/author/adam-grohs
+- [Stackable Labs Blog](https://stackablelabs.com/blog/author/adam-grohs): https://stackablelabs.com/blog/author/adam-grohs
+
 ### Products 🌱
 - [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com
 - [BigCommerce](https://www.bigcommerce.com/apps/zendesk-connector-by-agnostack/) for [Zendesk](https://zendesk.com): https://www.zendesk.com/marketplace/apps/support/545897/bigcommerce-by-agnostack/
@@ -56,10 +60,6 @@ Stackable provides the first AI-powered open developer platform for building ric
 
 ### Contributor 🔭
 - [ShadCN Tour](https://github.com/NiazMorshed2007/shadcn-tour): https://github.com/NiazMorshed2007/shadcn-tour
-
-### Writing ✏️
-- [agnoStack Blog](https://go.agnostack.com/blog/author/adam-grohs): https://go.agnostack.com/blog/author/adam-grohs
-- [Stackable Labs Blog](https://stackablelabs.com/blog/author/adam-grohs): https://stackablelabs.com/blog/author/adam-grohs
 
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
