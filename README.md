@@ -1,4 +1,4 @@
-### Co-Founder/CEO @ [Stackable Labs](https://github.com/stackable-labs) 👀
+### Co-Founder/Head of Product @ [Stackable Labs](https://github.com/stackable-labs) 👀
 
 Stackable provides the first AI-powered open developer platform for building rich, branded, interactive experiences on top of Zendesk Messenger.
 **_Customer experience has entered the chat._**
@@ -56,6 +56,10 @@ Stackable provides the first AI-powered open developer platform for building ric
 
 ### Contributor 🔭
 - [ShadCN Tour](https://github.com/NiazMorshed2007/shadcn-tour): https://github.com/NiazMorshed2007/shadcn-tour
+
+### Writing ✏️
+- [agnoStack Blog](https://go.agnostack.com/blog/author/adam-grohs): https://go.agnostack.com/blog/author/adam-grohs
+- [Stackable Labs Blog](https://stackablelabs.com/blog/author/adam-grohs): https://stackablelabs.com/blog/author/adam-grohs
 
 <!--
 **agrohs/agrohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
