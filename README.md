@@ -39,8 +39,8 @@ Stackable provides the first AI-powered open developer platform for building ric
 - TheOrg: https://theorg.com/org/agnostack/org-chart/adam-grohs
 
 ### Writing ✏️
-- [agnoStack Blog](https://go.agnostack.com/blog/author/adam-grohs): https://go.agnostack.com/blog/author/adam-grohs
-- [Stackable Labs Blog](https://stackablelabs.com/blog/author/adam-grohs): https://stackablelabs.com/blog/author/adam-grohs
+- agnoStack Blog: https://go.agnostack.com/blog/author/adam-grohs
+- Stackable Labs Blog: https://stackablelabs.com/blog/author/adam-grohs
 
 ### Products 🌱
 - [Shopify](https://shopify.com) Premium for [Zendesk](https://zendesk.com): https://shopifypremium.com
